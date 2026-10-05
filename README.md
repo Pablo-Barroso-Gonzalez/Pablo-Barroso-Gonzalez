@@ -1,8 +1,8 @@
-# 👋 Hola, soy Pablo
+# Hola, soy Pablo
 
 Soy estudiante interesado en la programación y la ciberseguridad.
 
-## 💻 Actualmente estoy aprendiendo
+## Actualmente estoy aprendiendo
 
 - Python
 - Linux
@@ -10,11 +10,11 @@ Soy estudiante interesado en la programación y la ciberseguridad.
 - Redes informáticas
 - Ciberseguridad
 
-## 🚀 Proyectos
+## Proyectos
 
 - [Monkeytype-Analyzer](https://github.com/Pablo-Barroso-Gonzalez/Monkeytype-Analyzer)
 
-## 🎯 Mis intereses
+## Mis intereses
 
 - Ciberseguridad
 - Big Data
