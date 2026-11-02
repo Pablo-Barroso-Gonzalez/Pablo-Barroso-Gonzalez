@@ -12,7 +12,6 @@ Soy estudiante interesado en la programación y la ciberseguridad.
 
 ## Proyectos
 
-- [Monkeytype-Analyzer](https://github.com/Pablo-Barroso-Gonzalez/Monkeytype-Analyzer)
 
 ## Mis intereses
 
